@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "google.com"
+      ],
+      "domain_suffix": [
+        "docker.io",
+        "google.com"
+      ]
+    }
+  ]
+} 
