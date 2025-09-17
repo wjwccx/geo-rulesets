@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "lmfml.com"
+      ],
+      "domain_suffix": [
+        "immersivetranslate.com",
+        "immersivetranslate.cn",
+        "newsmth.net",
+        "mysmth.net",
+        "lmfml.com"
+      ]
+    }
+  ]
+} 
