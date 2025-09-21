@@ -2,13 +2,29 @@
   "version": 3,
   "rules": [
     {
-      "domain": [
-        "dust.lcgc.work",
-        "proxy.stargate.vip",
-        "blackbox.vip"
-      ],
-      "domain_suffix": [
-        "lmfml.com"
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "domain": [
+            "dust.lcgc.work",
+            "proxy.stargate.vip",
+            "blackbox.vip"
+          ],
+          "domain_suffix": [
+            "lmfml.com"
+          ]
+        },
+        {
+          "invert": true,
+          "domain": [
+            "bookmarks.lmfml.com",
+            "warden.lmfml.com",
+            "hs.lmfml.com",
+            "blackbox.lmfml.com",
+            "lmfml.com"
+          ]
+        }
       ]
     }
   ]
