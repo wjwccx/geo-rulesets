@@ -6,6 +6,7 @@
         "google.com"
       ],
       "domain_suffix": [
+        "ghcr.io",
         "twimg.com",
         "cloudflarestorage.com",
         "github.io",
