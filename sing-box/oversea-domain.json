@@ -3,16 +3,8 @@
   "rules": [
     {
       "domain": [
-        "google.com"
       ],
       "domain_suffix": [
-        "githubusercontent.com",
-        "ghcr.io",
-        "twimg.com",
-        "cloudflarestorage.com",
-        "github.io",
-        "docker.io",
-        "google.com"
       ]
     }
   ]
