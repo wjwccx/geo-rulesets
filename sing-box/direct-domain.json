@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain": [
-        "juejin.cn"
+        "juejin.cn",
+        "tailscale.com"
       ],
       "domain_suffix": [
-        "juejin.cn"
+        "juejin.cn",
+        "tailscale.com"
       ]
     }
   ]
