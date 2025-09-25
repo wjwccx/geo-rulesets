@@ -3,16 +3,10 @@
   "rules": [
     {
       "domain": [
-        "lmfml.com"
+        "juejin.cn"
       ],
       "domain_suffix": [
-        "juejin.cn",
-        "foooooot.com",
-        "immersivetranslate.com",
-        "immersivetranslate.cn",
-        "newsmth.net",
-        "mysmth.net",
-        "lmfml.com"
+        "juejin.cn"
       ]
     }
   ]
