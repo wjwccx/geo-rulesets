@@ -17,6 +17,9 @@
         },
         {
           "invert": true,
+          "domain_suffix": [
+            "a.lmfml.com"
+          ],
           "domain": [
             "bookmarks.lmfml.com",
             "warden.lmfml.com",
