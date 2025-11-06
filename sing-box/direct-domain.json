@@ -3,10 +3,14 @@
   "rules": [
     {
       "domain": [
+        "swetrix.com",
+        "swetrix.org",
         "juejin.cn",
         "tailscale.com"
       ],
       "domain_suffix": [
+        "swetrix.com",
+        "swetrix.org",
         "juejin.cn",
         "tailscale.com"
       ]
