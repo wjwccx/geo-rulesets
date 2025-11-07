@@ -3,12 +3,14 @@
   "rules": [
     {
       "domain": [
+        "umami.is",
         "swetrix.com",
         "swetrix.org",
         "juejin.cn",
         "tailscale.com"
       ],
       "domain_suffix": [
+        "umami.is",
         "swetrix.com",
         "swetrix.org",
         "juejin.cn",
