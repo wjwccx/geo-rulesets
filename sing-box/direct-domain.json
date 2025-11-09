@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "plausible.io",
         "umami.is",
         "swetrix.com",
         "swetrix.org",
@@ -10,6 +11,7 @@
         "tailscale.com"
       ],
       "domain_suffix": [
+        "plausible.io",
         "umami.is",
         "swetrix.com",
         "swetrix.org",
