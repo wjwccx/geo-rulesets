@@ -3,8 +3,10 @@
   "rules": [
     {
       "domain": [
+        "posthog.com"
       ],
       "domain_suffix": [
+        "posthog.com"
       ]
     }
   ]
